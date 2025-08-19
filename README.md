@@ -40,3 +40,7 @@ Ao final das 10 rodadas, o jogo exibe o desempenho do jogador com base no tempo 
 **Objetivo:**
 
 O principal objetivo é acertar o maior número possível de países corretamente e no menor tempo, desafiando-se a melhorar a cada rodada.
+
+**Imagens do site:**
+
+![Inicio.](/")
