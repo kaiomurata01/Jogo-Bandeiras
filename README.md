@@ -12,7 +12,7 @@ Interface Simples e Intuitiva: O design da interface é feito com HTML e CSS, of
 
 Desafios Progressivos: Cada rodada desafia o jogador com uma nova bandeira de um país diferente, as vezes pode repitir.
 
-O jogo identifica automaticamente quem entra no rank (de 5 pessoas, podendo ser alterado no codigo do servidor (index.jx na pasta API)) e em qual posição a pessoa fica.
+O jogo identifica automaticamente quem entra no rank (de 5 pessoas, podendo ser alterado no codigo do servidor (index.js na pasta API) e em qual posição a pessoa fica.
 
 **Tecnologias Utilizadas:**
 
