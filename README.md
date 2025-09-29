@@ -10,9 +10,9 @@ Rank de Tempo e Acertos: Ao final das 10 rodadas, o jogo exibe um ranking com o 
 
 Interface Simples e Intuitiva: O design da interface é feito com HTML e CSS, oferecendo uma experiência limpa e fácil de jogar.
 
-Desafios Progressivos: Cada rodada desafia o jogador com uma nova bandeira de um país diferente, as vezes pode repitir.
+Desafios Progressivos: Cada rodada desafia o jogador com uma nova bandeira de um país diferente, as vezes pode repetir.
 
-O jogo identifica automaticamente quem entra no rank (de 5 pessoas, podendo ser alterado no codigo do servidor (index.js na pasta API) e em qual posição a pessoa fica.
+O jogo identifica automaticamente quem entra no rank (de 5 pessoas, podendo ser alterado no código do servidor (index.js na pasta API) e em qual posição a pessoa fica.
 
 **Tecnologias Utilizadas:**
 
@@ -31,7 +31,7 @@ E uma API propria, sem depender de APIs externas.
 
 O jogador será apresentado a uma bandeira de um país.
 
-Ele deve escrever o nome do país correspondente no campo de resposta.
+Ele deve escrever o nome do país correspondente no campo de resposta (Com a acentuação no no e do país de forma correta, ignorando o Uppercase).
 
 Após cada resposta, o tempo é contabilizado e o jogo segue para a próxima rodada.
 
